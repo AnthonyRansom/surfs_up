@@ -16,7 +16,7 @@ From the review of the data the following has been determined:
  - The avarage temperature for June and December is within a 4 degree difference
  - There is a significant difference between the minimum temperatures with June showing a minumum of 64 and December a minimum of 56
 
-![June_temps](Resources/june_temps.PNG) ![December_temps](Resources/december_temps.PNG)
+![June_temps](Resources/june_temps.PNG) ![December_temps](Resources/December_temps.PNG)
 
 ## Summary
 
